@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou [Seu Nome] 👋</h1>
+<h1 align="center">Olá! Eu sou Felipe Chaves 👋</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/seu-usuario/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat"/></a>
@@ -9,10 +9,8 @@
 
 🎯 **Sobre mim**
 
-- 🔭 Atualmente trabalhando em: `Seu Projeto Atual`
-- 🌱 Aprendendo: `Tecnologia ou Framework`
-- 💬 Pergunte-me sobre: `Suas especialidades`
-- ⚡ Curiosidade: `Algo interessante sobre você`
+- 🔭 Atualmente trabalhando em: `StratHub`
+- 🌱 Aprendendo: `Java Spring Boot`
 
 ---
 
@@ -35,7 +33,7 @@
 
 | Projeto | Descrição | Tecnologias |
 |--------|------------|-------------|
-| [Projeto 1](https://github.com/felipoza/menu-lateral) | Menu lateral | React, Node.js |
+| [menu lateral](https://github.com/felip0za/menu-lateral) | Menu lateral | React, Node.js |
 | [Projeto 2](https://github.com/seu-usuario/projeto2) | Breve descrição do projeto | Python, Flask |
 | [Projeto 3](https://github.com/seu-usuario/projeto3) | Breve descrição do projeto | Next.js, Tailwind |
 
