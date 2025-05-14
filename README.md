@@ -1,9 +1,7 @@
 <h1 align="center">Olá! Eu sou Felipe Chaves 👋</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/seu-usuario/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat"/></a>
-  <a href="https://github.com/seu-usuario"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?logo=github&style=flat"/></a>
-</p>
+  <a href="https://www.linkedin.com/in/felipe-chaves-01294b2aa/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat"/></a>
 
 ---
 
