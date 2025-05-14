@@ -50,4 +50,4 @@
 
 ✨ **Frase favorita**
 
-> _"Escolha um trabalho que você ame e você nunca terá que trabalhar um dia sequer na vida."_ — Confúcio
+> _"Faça,dando erro ou nao, faça"_ 
