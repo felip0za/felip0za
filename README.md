@@ -46,6 +46,6 @@
 
 ---
 
-✨ **Frase favorita**
+✨ **Sobre mim**
 
 > _"Faça,dando erro ou nao, faça"_ 
