@@ -34,8 +34,8 @@
 | Projeto | Descrição | Tecnologias |
 |--------|------------|-------------|
 | [menu lateral](https://github.com/felip0za/menu-lateral) | Menu lateral | React, Node.js |
-| [Projeto 2](https://github.com/seu-usuario/projeto2) | Breve descrição do projeto | Python, Flask |
-| [Projeto 3](https://github.com/seu-usuario/projeto3) | Breve descrição do projeto | Next.js, Tailwind |
+| [StratHub](https://github.com/felip0za/StratHub-AboutUs) | Projeto pessoal | HTML, CSS |
+| [todolist-js](https://github.com/felip0za/todolist-js) | TodoList | JavaScript, CSS, HTML |
 
 ---
 
